@@ -24,7 +24,7 @@ apply plugin: 'com.android.library'
 android {
     compileSdk 34
 
-    namespace 'dev.fluttercommunity.device.policy.manager'
+    namespace 'device.policy.manager'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
